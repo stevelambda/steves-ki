@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "packages/uicomponents"
+		},
+		{
+			"path": "apps/skynet"
+		}
+	],
+	"settings": {}
+}

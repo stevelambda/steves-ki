@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "packages/services"
+		},
+		{
+			"path": "apps/middleware"
+		}
+	],
+	"settings": {}
+}
